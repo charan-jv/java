@@ -9,6 +9,7 @@ public class Autorikshaw {
 
     public static void main(String[] args) {
         Autorikshaw autorikshaw=new Autorikshaw();
+		
         autorikshaw.height=100;
         autorikshaw.weight=100;
         autorikshaw.color="yellow";

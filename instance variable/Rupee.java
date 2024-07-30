@@ -1,4 +1,4 @@
-
+	
 public class Rupee {
     
     String color;
